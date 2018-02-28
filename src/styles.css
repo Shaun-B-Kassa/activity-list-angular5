@@ -1,1 +1,46 @@
 /* You can add global styles to this file, and also import other style files */
+@import "~bootstrap/dist/css/bootstrap.min.css";
+@import "~font-awesome/css/font-awesome.css";
+
+img {
+  border: 1px solid gray;
+}
+.avator {
+  margin-right: 10px;
+}
+
+h5 {
+  text-align: center;
+  background-color: #563d7c;
+  margin: 0;
+  color: #fff;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  display: inline-block;
+  width: 260px;
+}
+.container {
+  width: 400px;
+}
+
+p {
+  margin: 0;
+}
+
+span {
+  font-size: 16px;
+}
+
+.info {
+  width: 306px;
+}
+
+header {
+  background-color:#563d7c;
+
+}
+
+header i, header span {
+  color: #fff;
+  margin: 10px;
+}
